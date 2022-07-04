@@ -1,0 +1,411 @@
+.whole-page    {
+    background-image: url(https://images.pexels.com/photos/326311/pexels-photo-326311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+
+
+.navbar {
+    background-color: #e3f2fd;
+    margin-bottom: 20px;
+    
+}
+
+
+
+
+
+.nav-item {
+    display: flex;
+}
+
+.card   {
+    margin-bottom: 50px;
+    background-color: rgb(234, 243, 234);
+
+}
+
+.card-body {
+    margin-bottom: 10px;
+    
+}
+
+.info-blocks {
+    
+    color: black;
+    display: flex;
+}
+
+.info-container {
+    margin-right: 20px;
+    margin-left: 20px;
+    background-image: url(https://images.unsplash.com/photo-1459695452562-46cc57bef5f6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.info-text {
+    height: 400px;
+    width: 50%;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+
+    margin: 5px;
+
+}
+
+.winter-page {
+    background-color: lightblue;
+}
+
+.photo {
+    background-image: url(https://images.pexels.com/photos/2724664/pexels-photo-2724664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    height: 400px;
+    width: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.photo-2 {
+    background-image: url(https://images.pexels.com/photos/813872/pexels-photo-813872.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    height: 400px;
+    width: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.photo-3 {
+    background-image: url(https://images.pexels.com/photos/302743/pexels-photo-302743.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    height: 400px;
+    width: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.photo-4 {
+    background-image: url(https://images.pexels.com/photos/416728/pexels-photo-416728.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    height: 400px;
+    width: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.hot-page {
+    background-color: rgb(235, 72, 32);
+}
+
+
+.photo-hot {
+    background-image: url(https://images.pexels.com/photos/712395/pexels-photo-712395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    height: 400px;
+    width: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.info-container-hot {
+    background-image: url(https://images.pexels.com/photos/210307/pexels-photo-210307.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.photo-2-hot {
+    background-image: url(https://images.pexels.com/photos/60013/desert-drought-dehydrated-clay-soil-60013.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    height: 400px;
+    width: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.photo-4-hot {
+    background-image: url(https://images.pexels.com/photos/260367/pexels-photo-260367.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    height: 400px;
+    width: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hard-times {
+    background-color: black;
+}
+
+.top-photo {
+    background-image: url(https://www.demo.stringr.co/leatherman/wp-content/uploads/sites/4/2019/04/canyon-1852921_1920.jpg);
+    height: 200px;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    margin-bottom: 70px ;
+    
+}
+
+
+.earthquakes {
+    display: block;
+    margin: 0 auto;
+    position: relative;
+    text-align: center;
+    color: blanchedalmond;
+    font-weight: bold;
+    margin-top: 60px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+    
+}
+
+
+.first-card {
+    height: 800px;
+    color: white;
+    display: flex;
+    margin-top: 250px;
+    
+}
+
+.first-card-text {
+    margin: 10px;
+    padding-left: 30px;
+    width: 60%;
+    border: cornsilk 2px;
+    text-align: justify;
+}
+
+.first-card-photo {
+    background-image: url(https://images.pexels.com/photos/783960/pexels-photo-783960.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+    width: 30%;
+    height: 95%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.middle-photo {
+    background-image: url(https://images.pexels.com/photos/3993212/pexels-photo-3993212.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    height: 200px;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+}
+
+.pandemic {
+    display: block;
+    margin: 0 auto;
+    position: relative;
+    text-align: center;
+    color:rgb(14, 11, 11);
+    font-weight: bold;
+    margin-top: 50px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+}
+
+.second-card {
+    height: 800px;
+    display: flex;
+    border: blanchedalmond 2px solid;
+    margin: 10px;
+    
+    
+    
+}
+
+.second-card-text {
+    
+    position: relative;
+    width: 100%;
+   
+    padding: 15px;
+    color: blanchedalmond;
+    text-align: justify;
+    
+}
+
+.pandemic-text {
+    padding: 15px;
+    width: 100%;
+    
+}
+
+.pandemic-text-2 {
+    width: 100%;
+    height: 333px;
+    text-align: justify;
+    color: blanchedalmond;
+    padding-right: 20px;
+    
+}
+.third-photo {
+    position: absolute;
+}
+
+.photo-first-aid-1 {
+    background-image: url(https://images.pexels.com/photos/42230/teddy-teddy-bear-association-ill-42230.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+    height: 400px;
+    width: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.photo-first-aid-2 {
+    background-image: url(https://images.pexels.com/photos/415779/pexels-photo-415779.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    height: 400px;
+    width: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.photo-first-aid-3 {
+    background-image: url(https://images.pexels.com/photos/263402/pexels-photo-263402.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    height: 400px;
+    width: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.photo-first-aid-4 {
+    background-image: url(https://images.pexels.com/photos/3584099/pexels-photo-3584099.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    height: 400px;
+    width: 50%;
+    background-position-y: -600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.info-container-firstaid {
+    background-image: url(https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    margin-right: 20px;
+    margin-left: 20px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.info-container-navigation {
+    background-image: url(https://images.pexels.com/photos/2680270/pexels-photo-2680270.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    margin-right: 20px;
+    margin-left: 20px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.photo-first-navigation-1 {
+    background-image: url(https://images.pexels.com/photos/697662/pexels-photo-697662.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    height: 400px;
+    width: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.photo-first-navigation-2 {
+    background-image: url(https://images.pexels.com/photos/269633/pexels-photo-269633.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    height: 400px;
+    width: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.photo-first-navigation-3 {
+    background-image: url(https://images.pexels.com/photos/1632066/pexels-photo-1632066.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    height: 400px;
+    width: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.photo-first-navigation-4 {
+    background-image: url(https://images.pexels.com/photos/1098518/pexels-photo-1098518.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+    height: 400px;
+    width: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.info-container-lackoffood {
+    background-image: url(https://images.pexels.com/photos/630754/autumn-orange-nature-red-630754.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    margin-right: 20px;
+    margin-left: 20px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+
+.photo-first-lackoffood-1 {
+    background-image: url(https://images.pexels.com/photos/291767/pexels-photo-291767.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    height: 400px;
+    width: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.photo-first-lackoffood-2 {
+    background-image: url(https://images.pexels.com/photos/39854/fisherman-fishing-reel-river-39854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    height: 400px;
+    width: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.photo-first-lackoffood-3 {
+    background-image: url(https://images.pexels.com/photos/1132047/pexels-photo-1132047.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    height: 400px;
+    width: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.photo-first-lackoffood-4 {
+    background-image: url(https://images.pexels.com/photos/1639562/pexels-photo-1639562.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    height: 400px;
+    width: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.info-text-lackoffood {
+    color:black;
+    height: 400px;
+    width: 50%;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    margin: 5px;
+}
